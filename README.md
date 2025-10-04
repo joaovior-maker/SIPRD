@@ -1,2 +1,5 @@
 # SIPRD
 Sistema de Preservação Inteligente de Acervos - Projeto AB2 de Introdução à Informática - UFAL
+VITE_SUPABASE_PROJECT_ID="gfztbrybnnfnewyltypb"
+VITE_SUPABASE_PUBLISHABLE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdmenRicnlibm5mbmV3eWx0eXBiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTk1NDA2MTYsImV4cCI6MjA3NTExNjYxNn0.WVDKNQK61OpprO28Ro74qo4O2MNvo-vdgrb0l_Zin_g"
+VITE_SUPABASE_URL="https://gfztbrybnnfnewyltypb.supabase.co"
